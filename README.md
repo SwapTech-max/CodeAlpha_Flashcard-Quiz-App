@@ -38,3 +38,6 @@ lib/
 Swapnil Pradhan
 Intern @ CodeAlpha
 📧 swapnilpradhan0507@gmail.com
+=======
+# CodeAlpha_Flashcard-Quiz-App
+
