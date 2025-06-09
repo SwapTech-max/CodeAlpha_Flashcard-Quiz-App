@@ -22,4 +22,4 @@ class Flashcard extends HiveObject {
     this.type = 'single',
     this.options,
   });
-} // first have a look on my previous flashcardmodel.dart file and then tell me 
+}
